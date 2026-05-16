@@ -78,6 +78,24 @@ img {
   padding-bottom: 2rem;
 }  
 
+.aboutcontent{
+    display: grid;
+   grid-template-columns: 1fr 1fr;
+}
+
+.aboutcontent ul{
+    margin-top: 3rem    
+}
+
+.aboutcontent p{
+  grid-column: 1;
+   margin-top: 2rem
+}
+
+.aboutcontent img{
+   margin-top: -150px;
+}
+
 footer {
   color: #EDBC00 ;
   display: flex;
