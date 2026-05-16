@@ -51,6 +51,12 @@ nav a.active {
   color: #EDBC00 ;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 footer {
   color: #EDBC00 ;
   display: flex;
