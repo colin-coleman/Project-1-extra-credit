@@ -51,6 +51,12 @@ nav a.active {
   color: #EDBC00 ;
 }
 
+h1{ 
+  text-align: center ;
+  font-size: 2.5rem;
+  padding: 1rem;
+}
+
 img {
   display: block;
   margin-left: auto;
