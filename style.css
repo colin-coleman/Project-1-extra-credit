@@ -50,3 +50,23 @@ a:hover {
 nav a.active {
   color: #EDBC00 ;
 }
+
+footer {
+  color: #EDBC00 ;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding: 0 5rem;
+  height: 10rem;
+  background-color: #004D98;
+  font-size: 1.4rem;
+  align-items: center;
+}
+
+footer a {
+  color: #A50044;
+}
+
+footer a:hover {
+  color:#DF0024 ;
+}
