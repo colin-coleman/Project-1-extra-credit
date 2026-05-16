@@ -12,7 +12,6 @@ html {
 
 /* adjust typography defaults */
 body {
-  margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
 }
@@ -38,9 +37,16 @@ a {
   color: #004D98;
   text-decoration: none;
   padding-left: 45px;
+  font-weight: 700;
+  border-radius: 10px;
+  transition: all 0.8s ease;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #EDBC00 ;
+}
+
+nav a.active {
   color: #EDBC00 ;
 }
