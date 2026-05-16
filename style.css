@@ -23,3 +23,24 @@ video {
   height: auto;
   max-width: 100%;
 }
+
+nav{
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 8rem;
+  background-color: #A50044;
+  padding: 0 20rem;
+    font-size: 1.4rem
+}
+
+a {
+  color: #004D98;
+  text-decoration: none;
+  padding-left: 45px;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #EDBC00 ;
+}
