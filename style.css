@@ -78,6 +78,10 @@ img {
   padding-bottom: 2rem;
 }  
 
+.aboutp{
+    padding: 70px;   
+}
+
 .aboutcontent{
     display: grid;
    grid-template-columns: 1fr 1fr;
