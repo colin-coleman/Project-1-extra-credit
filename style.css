@@ -3,7 +3,7 @@
 /* default to border-box */
 html {
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 *, *:before, *:after {
@@ -12,8 +12,9 @@ html {
 
 /* adjust typography defaults */
 body {
-  font-family: sans-serif;
+  font-family: Helvetica, sans-serif;
   line-height: 1.5;
+   background-color: #fef6cc;
 }
 
 /* images and videos max out at full width */
